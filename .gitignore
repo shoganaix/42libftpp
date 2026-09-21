@@ -1,0 +1,12 @@
+# Build artifacts
+.obj/
+*.a
+*.o
+test_libftpp
+/tmp/
+
+# Editor / OS noise
+.vscode/
+*.swp
+*~
+.DS_Store
